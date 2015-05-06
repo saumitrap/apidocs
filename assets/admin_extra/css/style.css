@@ -1,0 +1,20 @@
+#error_set-group textarea,  #param_set-group textarea {
+	width: 400px;
+	height: 100px;
+}
+
+#id_request_example, #id_response_example {
+	width: 500px;
+	display: block;
+	float: none;
+}
+
+.field-request_example label, .field-response_example label {
+	display: block;
+	float: none;
+	width: 200px;
+}
+
+#id_method {
+	margin-right: 140px;
+}
